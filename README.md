@@ -18,7 +18,6 @@ Análisis con el objetivo aprender más sobre características y encontrar patro
 
 <b>Fuente de datos</b><br>
 
-
 <i>Observatorio Vial</i><br>
 <i>Agencia Provincial de Seguridad Vial</i><br>
 
